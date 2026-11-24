@@ -52,6 +52,8 @@ python calibrate.py data/example_points.csv --n 3 --conc-unit nM
 - A 12B model can still make mistakes. LM Studio shows every tool call for approval, and the saved report is the reference.
 - Lina's picture was made with ChatGPT ([prompt](visuals/lina_image_prompt.md)).
 
-## License
+## 🧑‍💻 Author
 
-MIT
+Developed by: **Vu Bao Chau Nguyen, Ph.D.**
+
+Keywords: local LLM, offline AI, LM Studio, Model Context Protocol (MCP), Gemma 4, analytical chemistry, calibration curve, linearity, limit of detection (LOD), limit of quantification (LOQ), electrochemical sensors, Python
